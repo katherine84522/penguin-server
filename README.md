@@ -1,24 +1,9 @@
-# README
+# About
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a back-end server for Penguin Adventure.
+Built using Ruby on Rails
 
-Things you may want to cover:
+- 2 tables: Penguins, and cartItems
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+check out the user interface here
+https://github.com/katherine84522/PenguinAdventure
